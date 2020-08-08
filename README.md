@@ -1,5 +1,15 @@
 # Project_1
 
-## Test 1
+## Collaborators
+  Federico López
+  Tadeo Aguilar
+  Carlos Palomino
+  
 
-## Test 2
+## Files of interest
+
+Jupyter Notebook : LTE_capacity.ipynb 
+Project presentation : Project_1.pdf
+Data: Resources folder
+
+
